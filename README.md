@@ -1,6 +1,17 @@
-# 🍇 Fifty Shades of Grape — A vibrant but pleasant colour theme for Visual Studio Code
+# 🍇 Fifty Shades of Grape — An alluring colour theme for Visual Studio Code
 
 Designed initially for myself, Fifty Shades of Grape is a dark theme of beautiful colours that combines shades of pink, purple and turquoise to create an engaging and relaxing developer environment – a great tool to have for relaxed eyes, nourished brain, stimulated imagination, enhanced focus, and the utmost pleasure and comfort
+
+---
+
+## 📜 Table of Contents
+
+🫐 [ Why Choose Fifty Shades of Grape?](#why-choose-fifty-shades-of-grape)  
+🔧 [Installation](#installation)  
+🍓 [Features](#features)  
+💻 [Screenshot](#screenshot)  
+👏 [Credits](#credits)  
+✒️ [License](#license)
 
 ---
 
@@ -15,15 +26,15 @@ Designed initially for myself, Fifty Shades of Grape is a dark theme of beautifu
 
 ## 🔧 Installation
 
-1. Open Visual Studio Code.
-2. Go to the **Extensions View** by clicking on the Extensions icon in the sidebar or pressing `Ctrl+Shift+X`.
-3. Search for **"Fifty Shades of Grape"** in the marketplace search bar.
-4. Click the **Install** button.
+1. Open Visual Studio Code
+2. Go to the **Extensions View** by clicking on the Extensions icon in the sidebar or pressing `Ctrl+Shift+X`
+3. Search for **"Fifty Shades of Grape"** in the marketplace search bar
+4. Click the **Install** button
 5. Activate the theme:
-   - Navigate to `File > Preferences > Color Theme` (`Code > Preferences > Color Theme` on macOS).
-   - Select **Fifty Shades of Grape** from the list.
+   - Navigate to `File > Preferences > Color Theme` (`Code > Preferences > Color Theme` on macOS)
+   - Select **Fifty Shades of Grape** from the list
 
-Alternatively, [install directly from the Visual Studio Code Marketplace](https://marketplace.visualstudio.com/).
+Alternatively, [install directly from the Visual Studio Code Marketplace](https://marketplace.visualstudio.com/)
 
 ---
 
@@ -37,10 +48,25 @@ Fifty Shades of Grape provides visually distinct syntax highlighting to make you
 - **Keywords**: Bold shades of pink, purple and turquoise for quick identification
 - **Strings and Comments**: Gentle blues, purples and pinks to prevent distractions
 
-
 ---
 
 ## 💻 Screenshot
 
 ![Screenshot of code editor in Debugging mode with the Fifty Shades of Grape theme](https://github.com/user-attachments/assets/614729a3-cbb8-4fc1-97eb-68109f3a0e1c)  
 *Code Editor in Debugging mode with the Fifty Shades of Grape theme*
+
+---
+
+## 👏 Credits
+
+The Fifty Shades of Grape theme is inspired by the following themes:
+* [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
+* [Midnight Synth](https://marketplace.visualstudio.com/items?itemName=ekelley.midnight-synth)
+
+The name Fifty Shades of Grape is inspired by the book [Fifty Shades of Grey](https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey)
+
+---
+
+## ✒️ License
+
+This app is licensed under the [MIT License](https://github.com/ChenYefet/fifty-shades-of-grape/blob/master/LICENSE.md)
