@@ -100,8 +100,5 @@
         "fruit",
         "grey",
         "black"
-    ],
-    "dependencies": {
-        "fifty-shades-of-grape": "file:"
-    }
+    ]
 }
