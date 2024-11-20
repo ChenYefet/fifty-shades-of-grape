@@ -39,6 +39,9 @@
     "Oranges":
 
     {
+        "bland_orange": "#FCEAD5A7",
+        "very_light_orange": "#FFDBAF",
+        "light_orange": "#FFB04F",
         "orange": "#FF8C00",
         "pumpkin": "#BD6800",
         "dark_orange": "#FF8C0082"
