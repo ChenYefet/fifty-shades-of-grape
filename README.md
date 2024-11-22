@@ -17,10 +17,9 @@ Designed initially for myself, Fifty Shades of Grape is a dark theme of beautifu
 
 ## 🫐 Why Choose Fifty Shades of Grape?
 
-- **Developer-Centric**: Optimized for readability and syntax clarity, ensuring every coding language shines
-- **Eye-Friendly Design**: Low-contrast backgrounds with vibrant accents reduce strain during prolonged use
-- **Harmonious colours**: Carefully curated color palette with pinks, purples, and turquoise for a visually stunning experience
-- **Mood Booster**: The vibrant tones inject energy into your workflow, making coding a delight
+- **Developer-Centric**: Optimised for readability and syntax clarity, ensuring every coding language shines
+- **Eye-Friendly Design**: Low-contrasting colours with vibrant accents create a pleasant environment and reduce strain as you immerse yourself in your coding task
+- **Harmonious colours**: Carefully curated colour palette with pinks, purples, and turquoise for a visually stunning experience, making coding a delight
 
 ---
 
@@ -43,10 +42,10 @@ Alternatively, [install directly from the Visual Studio Code Marketplace](https:
 ### ✨ Elegant Syntax Highlighting
 * Visually distinct syntax highlighting to make your code easier to read and understand
 
-### 🎨 Optimized Contrast
-- **Background**: A soft dark base for minimal glare
+### 🎨 Optimised Contrast
+- **Background**: A very dark purple base for pleasant contrast with all the other colours 
 - **Keywords**: Bold shades of pink, purple and turquoise for quick identification
-- **Strings and Comments**: Gentle blues, purples and pinks to prevent distractions
+- **Strings and Comments**: Lighter pinks and purples for ease of reading more modifiable texts
 
 ---
 
