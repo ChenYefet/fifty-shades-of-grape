@@ -40,7 +40,6 @@
         "purple",
         "pink",
         "blue",
-        "black pink",
         "red",
         "synth",
         "synthwave",
@@ -99,6 +98,10 @@
         "bubblegum",
         "fruit",
         "grey",
-        "black"
+        "black",
+        "50",
+        "neon",
+        "shiny",
+        "reflect"
     ]
 }
