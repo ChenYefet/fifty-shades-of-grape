@@ -411,7 +411,7 @@
         {
             "name": "Support",
             "scope": "support",
-            "settings": {"foreground": "#d4a753"}
+            "settings": {"foreground": "#00ffffbc"}
         },
 
         {
