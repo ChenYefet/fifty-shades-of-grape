@@ -206,7 +206,7 @@
                         "string.template",
                         "punctuation.definition.string"
                      ],
-            "settings": {"foreground": "#BF94B8"}
+            "settings": {"foreground": "#bab0ffcc"}
         },
 
         {
