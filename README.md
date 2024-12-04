@@ -52,7 +52,7 @@ Alternatively, [install directly from the Visual Studio Code Marketplace](https:
 ## 💻 Screenshot
 
 ![Screenshot of code editor in Debugging mode with the Fifty Shades of Grape theme in use](https://raw.githubusercontent.com/ChenYefet/fifty-shades-of-grape/refs/heads/master/images/readme_screenshot.png)
-*Code Editor in Debugging mode with the Fifty Shades of Grape theme*
+*Code Editor with the Fifty Shades of Grape theme*
 
 ---
 
