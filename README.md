@@ -6,7 +6,7 @@ Designed initially for myself, Fifty Shades of Grape is a dark theme of beautifu
 
 ## 📜 Table of Contents
 
-🫐 [ Why Choose Fifty Shades of Grape?](#why-choose-fifty-shades-of-grape)  
+🫐 [Why Choose Fifty Shades of Grape?](#why-choose-fifty-shades-of-grape)  
 🔧 [Installation](#installation)  
 🍓 [Features](#features)  
 💻 [Screenshot](#screenshot)  
