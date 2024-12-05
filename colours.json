@@ -8,6 +8,7 @@
         "lovely_pink": "#FF00AA",
         "blush_pink": "#FF7B9C9F",
         "dark_pink": "#F92C92DA",
+        "prominent_pink": "#990066",
         "very_dark_pink": "#FF00AA93",
         "super_dark_pink": "#FF00AA5F",
         "shadow_pink": "#FF00AA3D"
@@ -20,6 +21,7 @@
         "bright_purple": "#DD00FF",
         "less_bright_purple": "#DD00FFDE",
         "lovely_purple": "#AA00FF",
+        "prominent_purple": "#AA00FFAF",
         "grape_purple": "#8269FCFE",
         "dark_grape": "#51429F",
         "very_dark_purple": "#710082"
