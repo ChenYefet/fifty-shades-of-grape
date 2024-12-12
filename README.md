@@ -45,7 +45,7 @@ Alternatively, [install directly from the Visual Studio Code Marketplace](https:
 ### 🎨 Optimised Contrast
 - **Background**: A very dark purple base for pleasant contrast with all the other colours 
 - **Keywords**: Bold shades of pink, purple and turquoise for quick identification
-- **Strings and Comments**: Lighter pinks and purples for ease of reading more modifiable texts
+- **Strings and Comments**: Lighter purples that protrude invitingly from the dark purple background for ease of reading more modifiable texts
 
 ---
 
