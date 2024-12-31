@@ -39,6 +39,7 @@
         "list.highlightForeground": "#eeff005e",
         "list.focusBackground": "#25064a",
         "list.focusForeground": "#ffffffd7",
+        "list.errorForeground":"#8269FCFE",
         "list.warningForeground": "#ff2fb6bb",
         "activityBar.foreground": "#9c45ff",
         "activityBar.background": "#040015",
