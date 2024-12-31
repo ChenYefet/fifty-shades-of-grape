@@ -165,7 +165,7 @@
         "panelTitle.activeBorder": "#FF00AA",
         "debugToolBar.background": "#463465",
         "walkThrough.embeddedEditorBackground": "#232530",
-        "gitDecoration.modifiedResourceForeground": "#b893ceee",
+        "gitDecoration.modifiedResourceForeground": "#00FFFF8E",
         "gitDecoration.deletedResourceForeground": "#ff2fb6",
         "gitDecoration.addedResourceForeground": "#ff2fb6",
         "gitDecoration.untrackedResourceForeground": "#ff2fb6",
