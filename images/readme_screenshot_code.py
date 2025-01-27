@@ -5,8 +5,7 @@ def parse_event_logs(event_log_files):
     Parses event log files to extract event details and their timestamps
 
     Parameters:
-    event_log_files (list): A list of event log file names, e.g.
-                            ["event123_20241127153000_START.log", "event456_20241127160000_START.log"]
+    event_log_files (list): A list of event log file names, e.g. ["event123_20241127153000_START.log", "event456_20241127160000_START.log"]
     
     Returns:
     dict: A dictionary mapping event IDs (str) to event details (dict) with keys:
