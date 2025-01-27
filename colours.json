@@ -25,7 +25,7 @@
         "grape_purple": "#8269FCFE",
         "dark_grape": "#51429F",
         "very_dark_purple": "#710082",
-        "ghost_purple": "#6f00ff45"
+        "ghost_purple": "#6F00FF45"
     },
 
     "Blues":
@@ -36,7 +36,8 @@
         "pale_turquoise": "#93E3F7BC",
         "lovely_turquoise": "#00FFFFBC",
         "dark_turquoise": "#00FFFF8E",
-        "ghost_turquoise": "00e5ff3d",
+        "darker_turquoise": "#00BCBC8E",
+        "ghost_turquoise": "00E5FF3D",
         "sky_blue": "#029EFF"
     },
 
