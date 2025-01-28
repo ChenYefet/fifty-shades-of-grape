@@ -6,10 +6,13 @@
         "very_light_pink": "#FD8BD7",
         "light_pink": "#FF64CB",
         "lovely_pink": "#FF00AA",
+        "slightly_darker_lovely_pink": "#FF00AAD8",
         "blush_pink": "#FF7B9C9F",
         "dark_pink": "#F92C92DA",
+        "slightly_ghost_pink": "#830058",
         "ghostly_pink": "#680045e0",
         "very_dark_pink": "#FF00AA93",
+        "mega_dark_pink": "#FF00AA86",
         "super_dark_pink": "#FF00AA5F",
         "shadow_pink": "#FF00AA3D"
     },
@@ -18,6 +21,7 @@
 
     {
         "lightest_purple": "#DABDFF96",
+        "light_purple": "#D037E8FB",
         "bright_purple": "#DD00FF",
         "less_bright_purple": "#DD00FFDE",
         "lovely_purple": "#AA00FF",
