@@ -242,7 +242,7 @@
             "name": "Parameter",
             "scope": "variable.parameter",
             "settings": {
-                            "foreground": "#770289",
+                            "foreground": "#bd00daab",
                             "fontStyle": "italic"
                         }
         },
