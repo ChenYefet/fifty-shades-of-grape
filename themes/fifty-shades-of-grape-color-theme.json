@@ -242,7 +242,7 @@
             "name": "Parameter",
             "scope": "variable.parameter",
             "settings": {
-                            "foreground": "#8269FCFE",
+                            "foreground": "#b201f3e0",
                             "fontStyle": "italic"
                         }
         },
@@ -325,7 +325,7 @@
                         "entity.name.type",
                         "meta.attribute.class.html"
                      ],
-            "settings": {"foreground": "#b201f3e0"}
+            "settings": {"foreground": "#51429F"}
         },
 
         {
