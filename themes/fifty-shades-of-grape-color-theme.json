@@ -91,11 +91,11 @@
         "editorIndentGuide.activeBackground1": "#A148AB80",
         "editorRuler.foreground": "#A148AB80",
         "editorCodeLens.foreground": "#ffffff7c",
-        "editorBracketHighlight.foreground1":"#D037E8FB",
-        "editorBracketHighlight.foreground2":"#FF00AA",
-        "editorBracketHighlight.foreground3":"#830058",
-        "editorBracketHighlight.foreground4":"#51429f",
-        "editorBracketHighlight.foreground5":"#00BCBC8E",
+        "editorBracketHighlight.foreground1":"#710082",
+        "editorBracketHighlight.foreground2":"#9E026A",
+        "editorBracketHighlight.foreground3":"#51429f",
+        "editorBracketHighlight.foreground4":"#AA00FFAF",
+        "editorBracketHighlight.foreground5":"#8269FCFE",
         "editorBracketHighlight.foreground6":"default",
         "editorBracketMatch.background": "#34294f66",
         "editorBracketMatch.border": "#495495",
@@ -184,7 +184,7 @@
         {
             "name": "General punctuation",
             "scope": "punctuation.separator",
-            "settings": {"foreground": "#FF00AA93"}
+            "settings": {"foreground": "#FF00AA5F"}
         },
      
         {
@@ -242,7 +242,7 @@
             "name": "Parameter",
             "scope": "variable.parameter",
             "settings": {
-                            "foreground": "#00FFFFBC",
+                            "foreground": "#00FFFF8E",
                             "fontStyle": "italic"
                         }
         },
@@ -253,7 +253,7 @@
                         "storage.type",
                         "storage.modifier"
                      ],
-            "settings": {"foreground": "#8269FCFE"}
+            "settings": {"foreground": "#7520BFFE"}
         },
 
         {
@@ -277,7 +277,7 @@
         {
             "name": "Language constant (boolean, null)",
             "scope": "constant.language",
-            "settings": {"foreground": "#DD00FFDE"}
+            "settings": {"foreground": "#9E026A"}
         },
 
         {
@@ -289,7 +289,7 @@
         {
             "name": "Entity",
             "scope": "entity.name",
-            "settings": {"foreground": "#FF00AA93"}
+            "settings": {"foreground": "#D037E8FB"}
         },
 
         {
@@ -401,7 +401,7 @@
                         "keyword.operator.expression",
                         "keyword.operator.logical"
                      ],
-            "settings": {"foreground": "#FF00AA93"}
+            "settings": {"foreground": "#DD00FFDE"}
         },
 
         {
@@ -563,7 +563,7 @@
         {
             "name": "Python function call",
             "scope": "meta.function-call.generic.python",
-            "settings": {"foreground": "#FF00AA86"}
+            "settings": {"foreground": "#8269FCFE"}
         },
 
         {
