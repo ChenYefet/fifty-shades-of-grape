@@ -220,7 +220,7 @@
         {
             "name": "Variable",
             "scope": ["variable"],
-            "settings": {"foreground": "#00FFFFBC"}
+            "settings": {"foreground": "#b201f3e0"}
         },
 
         {
@@ -242,7 +242,7 @@
             "name": "Parameter",
             "scope": "variable.parameter",
             "settings": {
-                            "foreground": "#b201f3e0",
+                            "foreground": "#00FFFFBC",
                             "fontStyle": "italic"
                         }
         },
