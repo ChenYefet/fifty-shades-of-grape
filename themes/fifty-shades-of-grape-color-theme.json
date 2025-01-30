@@ -569,7 +569,7 @@
         {
             "name": "Python variable params",
             "scope": "variable.parameter.function-call.python",
-            "settings": {"foreground": "#ff2fb6"}
+            "settings": {"foreground": "#00E5FF3D"}
         },
 
         {
