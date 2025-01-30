@@ -8,13 +8,13 @@
         "lovely_pink": "#FF00AA",
         "slightly_darker_lovely_pink": "#FF00AAD8",
         "blush_pink": "#FF7B9C9F",
-        "dark_pink": "#F92C92DA",
-        "slightly_ghost_pink": "#9E026A",
-        "ghostly_pink": "#680045e0",
-        "very_dark_pink": "#FF00AA93",
-        "mega_dark_pink": "#FF00AA86",
-        "super_dark_pink": "#FF00AA5F",
-        "shadow_pink": "#FF00AA3D"
+        "reddish_pink": "#F92C92DA",
+        "maroon": "#9E026A",
+        "dark_pink": "#FF00AA93",
+        "very_dark_pink": "#FF00AA86",
+        "shadow_pink": "#FF00AA5F",
+        "ghost_pink": "#FF00AA3D",
+        "ghost_maroon": "#680045E0"
     },
 
     "Purples":
