@@ -184,7 +184,7 @@
         {
             "name": "General punctuation",
             "scope": "punctuation.separator",
-            "settings": {"foreground": "#FF00AA5F"}
+            "settings": {"foreground": "#B700FF45"}
         },
      
         {
