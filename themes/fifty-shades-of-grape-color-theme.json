@@ -109,7 +109,7 @@
         "editorError.foreground": "#8269FCFE",
         "editorWarning.foreground": "#FF2FB6",
         "editorGutter.modifiedBackground": "#b893ce8f",
-        "editorGutter.addedBackground": "#FF2FB6",
+        "editorGutter.addedBackground": "#FF2FB6D8",
         "editorGutter.deletedBackground": "#8269FCFE",
         "diffEditor.insertedTextBackground": "#0beb9935",
         "diffEditor.removedTextBackground": "#FF2FB635",
