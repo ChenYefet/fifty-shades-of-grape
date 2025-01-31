@@ -173,8 +173,8 @@
         "gitDecoration.ignoredResourceForeground": "#ffffff59",
         "gitDecoration.stageModifiedResourceForeground": "#FF2FB693",
         "minimapGutter.addedBackground": "#FF2FB6",
-        "minimapGutter.modifiedBackground": "#b893ce",
-        "minimapGutter.deletedBackground": "#FF2FB6",
+        "minimapGutter.modifiedBackground": "#b893ce8f",
+        "minimapGutter.deletedBackground": "#8269FCFE",
         "breadcrumbPicker.background": "#232530"
 
     },
