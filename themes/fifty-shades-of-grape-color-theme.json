@@ -39,7 +39,7 @@
         "list.highlightForeground": "#eeff005e",
         "list.focusBackground": "#25064a",
         "list.focusForeground": "#ffffffd7",
-        "list.errorForeground":"#8269FCFE",
+        "list.errorForeground":"#8269FC",
         "list.warningForeground": "#AA00FF",
         "activityBar.foreground": "#9c45ff",
         "activityBar.background": "#040015",
@@ -95,7 +95,7 @@
         "editorBracketHighlight.foreground2":"#AA00FFAF",
         "editorBracketHighlight.foreground3":"#9E026A",
         "editorBracketHighlight.foreground4":"#51429f",
-        "editorBracketHighlight.foreground5":"#8269FCFE",
+        "editorBracketHighlight.foreground5":"#8269FC",
         "editorBracketHighlight.foreground6":"default",
         "editorBracketMatch.background": "#34294f66",
         "editorBracketMatch.border": "#495495",
@@ -106,11 +106,11 @@
         "editorOverviewRuler.deletedForeground": "#FF2FB699",
         "editorOverviewRuler.errorForeground": "#FF2FB6dd",
         "editorOverviewRuler.warningForeground": "#FF2FB6",
-        "editorError.foreground": "#8269FCFE",
+        "editorError.foreground": "#8269FC",
         "editorWarning.foreground": "#FF2FB6",
         "editorGutter.modifiedBackground": "#b893ce8f",
         "editorGutter.addedBackground": "#FF2FB65F",
-        "editorGutter.deletedBackground": "#8269FCFE",
+        "editorGutter.deletedBackground": "#8269FC",
         "diffEditor.insertedTextBackground": "#0beb9935",
         "diffEditor.removedTextBackground": "#FF2FB635",
         "editorWidget.background": "#171520c3",
@@ -174,7 +174,7 @@
         "gitDecoration.stageModifiedResourceForeground": "#FF2FB693",
         "minimapGutter.addedBackground": "#FF2FB6",
         "minimapGutter.modifiedBackground": "#b893ce8f",
-        "minimapGutter.deletedBackground": "#8269FCFE",
+        "minimapGutter.deletedBackground": "#8269FC",
         "breadcrumbPicker.background": "#232530"
 
     },
@@ -564,7 +564,7 @@
         {
             "name": "Python function call",
             "scope": "meta.function-call.generic.python",
-            "settings": {"foreground": "#8269FCFE"}
+            "settings": {"foreground": "#8269FC"}
         },
 
         {
