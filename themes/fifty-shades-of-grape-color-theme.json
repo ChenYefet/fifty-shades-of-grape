@@ -18,7 +18,7 @@
         "dropdown.background": "#232530",
         "dropdown.listBackground": "#2a2139",
         "input.background": "#2a2139",
-        "inputOption.activeBorder": "#ff7edb99",
+        "inputOption.activeBorder": "#51429F99",
         "inputValidation.errorBackground": "#FF2FB680",
         "inputValidation.errorBorder": "#00000000",
         "scrollbar.shadow": "#2a2139",
@@ -144,7 +144,7 @@
         "titleBar.inactiveForeground": "#ffffff99",
         "titleBar.border": "#0089983D",
         "extensionButton.prominentBackground": "#ff7b9c9f",
-        "extensionButton.prominentHoverBackground": "#ff7edb",
+        "extensionButton.prominentHoverBackground": "#51429F",
         "pickerGroup.foreground": "#FF2FB693",
         "terminal.foreground": "#FF2FB6D8",
         "terminal.ansiBlue": "#FF2FB6",
@@ -284,7 +284,7 @@
         {
             "name": "Character escape",
             "scope": "constant.character.escape",
-            "settings": {"foreground": "#36f9f6"}
+            "settings": {"foreground": "#00FFFFBC"}
         },
 
         {
@@ -420,13 +420,13 @@
         {
             "name": "Support function",
             "scope": "support.function",
-            "settings": {"foreground": "#36f9f6"}
+            "settings": {"foreground": "#00FFFFBC"}
         },
 
         {
             "name": "Support variable",
             "scope": "support.variable",
-            "settings": {"foreground": "#ff7edb"}
+            "settings": {"foreground": "#51429F"}
         },
 
         {
@@ -480,7 +480,7 @@
                         "variable.other.constant.property.js",
                         "variable.other.property.js"
                      ],
-            "settings": {"foreground": "#2ee2fa"}
+            "settings": {"foreground": "#00FFFFBC"}
         },
 
         {
@@ -522,7 +522,7 @@
                         "markup.heading",
                         "entity.name.section"
                      ],
-            "settings": {"foreground": "#ff7edb"}
+            "settings": {"foreground": "#51429F"}
         },
 
         {
@@ -546,7 +546,7 @@
         {
             "name": "Markup list",
             "scope": "beginning.punctuation.definition.list",
-            "settings": {"foreground": "#ff7edb"}
+            "settings": {"foreground": "#51429F"}
         },
 
         {
@@ -582,7 +582,7 @@
         {
             "name": "C# local variable",
             "scope": "entity.name.variable.local.cs",
-            "settings": {"foreground": "#ff7edb"}
+            "settings": {"foreground": "#51429F"}
         },
 
         {
@@ -591,7 +591,7 @@
                         "entity.name.variable.field.cs",
                         "entity.name.variable.property.cs"
                      ],
-            "settings": {"foreground": "#ff7edb"}
+            "settings": {"foreground": "#51429F"}
         },
 
         {
@@ -654,7 +654,7 @@
                         "source.elixir support.type.elixir",
                         "source.elixir meta.module.elixir entity.name.class.elixir"
                      ],
-            "settings": {"foreground": "#36f9f6"}
+            "settings": {"foreground": "#00FFFFBC"}
         },
 
         {
@@ -669,7 +669,7 @@
                         "source.elixir constant.other.symbol.elixir",
                         "source.elixir constant.other.keywords.elixir"
                      ],
-            "settings": {"foreground": "#36f9f6"}
+            "settings": {"foreground": "#00FFFFBC"}
         },
 
         {
@@ -691,7 +691,7 @@
             "name": "Elixir Binary Punctuation",
             "scope": "source.elixir .punctuation.binary.elixir",
             "settings": {
-                            "foreground": "#ff7edb",
+                            "foreground": "#51429F",
                             "fontStyle": "italic"
                         }
         },
@@ -700,7 +700,7 @@
             "name": "Clojure Globals",
             "scope": "entity.global.clojure",
             "settings": {
-                            "foreground": "#36f9f6",
+                            "foreground": "#00FFFFBC",
                             "fontStyle": "bold"
                         }
         },
@@ -709,7 +709,7 @@
             "name": "Clojure Storage",
             "scope": "storage.control.clojure",
             "settings": {
-                            "foreground": "#36f9f6",
+                            "foreground": "#00FFFFBC",
                             "fontStyle": "italic"
                         }
         },
@@ -735,19 +735,19 @@
         {
             "name": "Clojure Symbols",
             "scope": "meta.symbol.clojure",
-            "settings": {"foreground": "#ff7edbff"}
+            "settings": {"foreground": "#51429Fff"}
         },
 
         {
             "name": "Go basic",
             "scope": "source.go",
-            "settings": {"foreground": "#ff7edbff"}
+            "settings": {"foreground": "#51429Fff"}
         },
 
         {
             "name": "Go Function Calls",
             "scope": "source.go meta.function-call.go",
-            "settings": {"foreground": "#36f9f6"}
+            "settings": {"foreground": "#00FFFFBC"}
         },
 
         {
@@ -783,7 +783,7 @@
                         "source.go constant.other.placeholder.go",
                         "source.go variable"
                      ],
-            "settings": {"foreground": "#2EE2FA"}
+            "settings": {"foreground": "#00FFFFBC"}
         },
 
         {
@@ -811,7 +811,7 @@
                         "entity.name.section.markdown"
                      ],
             "settings": {
-                            "foreground": "#ff7edb",
+                            "foreground": "#51429F",
                             "fontStyle": "bold"
                         }
         },
@@ -820,7 +820,7 @@
             "name": "Markdown italic",
             "scope": "markup.italic.markdown",
             "settings": {
-                            "foreground": "#2EE2FA",
+                            "foreground": "#00FFFFBC",
                             "fontStyle": "italic"
                         }
         },
@@ -829,7 +829,7 @@
             "name": "Markdown bold",
             "scope": "markup.bold.markdown",
             "settings": {
-                            "foreground": "#2EE2FA",
+                            "foreground": "#00FFFFBC",
                             "fontStyle": "bold"
                         }
         },
@@ -868,13 +868,13 @@
         {
             "name": "Dart numerics",
             "scope": "constant.numeric.dart",
-            "settings": {"foreground": "#2EE2FA"}
+            "settings": {"foreground": "#00FFFFBC"}
         },
 
         {
             "name": "Scala variable params",
             "scope": "variable.parameter.scala",
-            "settings": {"foreground": "#2EE2FA"}
+            "settings": {"foreground": "#00FFFFBC"}
         },
 
         {
