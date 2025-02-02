@@ -40,7 +40,8 @@
         "dark_turquoise": "#00FFFFBC",
         "very_dark_turquoise": "#00FFFF8E",
         "super_dark_turquoise": "#00BCBC8E",
-        "ghost_turquoise": "00E5FF3D",
+        "shadow_turquoise": "00E5FF3D",
+        "ghost_turquoise": "#0089983D",
         "sky_blue": "#029EFF"
     },
 
