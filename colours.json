@@ -30,8 +30,9 @@
         "very_dark_grape": "#420079",
         "dark_purple": "#7520BFFE",
         "very_dark_purple": "#710082",
-        "extremely_dark_purple": "#B700FF45",
-        "ghost_purple": "#6F00FF45"
+        "extremely_dark_purple": "#8300C095",
+        "ghost_purple": "#B700FF45",
+        "ghost_grape": "#6F00FF45"
     },
 
     "Blues":
