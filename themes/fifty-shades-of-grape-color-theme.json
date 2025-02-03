@@ -228,7 +228,7 @@
         {
             "name": "Variable",
             "scope": ["variable"],
-            "settings": {"foreground": "#b201f3e0"}
+            "settings": {"foreground": "#AA00FFE2"}
         },
 
         {
