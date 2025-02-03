@@ -3,15 +3,15 @@
     
     {
         "bland_pink": "#BF94B8",
-        "lovely_pink": "#FF2FB6",
-        "slightly_darker_lovely_pink": "#FF2FB6D8",
+        "lovely_pink": "#FF2FC8",
+        "slightly_darker_lovely_pink": "#FF2FC8D8",
         "blush_pink": "#FF7B9C9F",
         "reddish_pink": "#F92C92DA",
         "maroon": "#9E026A",
-        "dark_pink": "#FF2FB693",
-        "very_dark_pink": "#FF2FB686",
-        "shadow_pink": "#FF2FB65F",
-        "ghost_pink": "#FF2FB63D",
+        "dark_pink": "#FF2FC893",
+        "very_dark_pink": "#FF2FC886",
+        "shadow_pink": "#FF2FC85F",
+        "ghost_pink": "#FF2FC83D",
         "ghost_maroon": "#680045E0",
         "shadow_purple_pink": "#FF00BB6C"
     },
