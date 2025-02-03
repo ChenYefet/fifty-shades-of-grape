@@ -176,7 +176,7 @@
         "gitDecoration.ignoredResourceForeground": "#ffffff59",
         "gitDecoration.stageModifiedResourceForeground": "#00FFFFBC",
         "scmGraph.historyItemRefColor": "#FF2FB6",
-        "scmGraph.historyItemRemoteRefColor": "#AA00FF",
+        "scmGraph.historyItemRemoteRefColor": "#7520BFFE",
         "scmGraph.historyItemBaseRefColor": "#00FFFFBC",
         "scmGraph.historyItemHoverAdditionsForeground": "#FF2FB6",
         "scmGraph.historyItemHoverDeletionsForeground": "#AA00FF",
