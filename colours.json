@@ -10,6 +10,7 @@
         "dark_pink": "#FF2FC893",
         "very_dark_pink": "#FF2FC883",
         "shadow_pink": "#FF2FC85F",
+        "elegant_pink": "#FF00CC73",
         "ghost_pink": "#FF2FC83D",
         "ghost_maroon": "#680045E0",
         "shadow_purple_pink": "#FF00BB6C"
@@ -19,9 +20,8 @@
 
     {
         "lightest_purple": "#DABDFF96",
-        "light_purple": "#D037E8FB",
-        "bright_purple": "#DD00FF",
-        "less_bright_purple": "#DD00FFDE",
+        "pink_purple": "#DD00FF",
+        "slightly_darker_pink_purple": "#DD00FFFB",
         "lovely_purple": "#AA00FF",
         "slightly_darker_lovely_purple": "#AA00FFE2",
         "prominent_purple": "#AA00FFAF",
@@ -29,7 +29,8 @@
         "dark_grape": "#6200BD",
         "very_dark_grape": "#420079",
         "dark_purple": "#7520BFFE",
-        "very_dark_purple": "#710082",
+        "very_dark_purple": "#7520BFCE",
+        "wine_purple": "#710082",
         "extremely_dark_purple": "#8300C095",
         "ghost_purple": "#B700FF45",
         "ghost_grape": "#6F00FF45"

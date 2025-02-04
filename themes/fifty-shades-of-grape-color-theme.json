@@ -92,12 +92,11 @@
         "editorIndentGuide.activeBackground1": "#A148AB80",
         "editorRuler.foreground": "#A148AB80",
         "editorCodeLens.foreground": "#ffffff7c",
-        "editorBracketHighlight.foreground1":"#FF00DD6C",
-        "editorBracketHighlight.foreground2":"#AA00FFAF",
-        "editorBracketHighlight.foreground3":"#9E026A",
-        "editorBracketHighlight.foreground4":"#6200BD",
-        "editorBracketHighlight.foreground5":"#8269FC",
-        "editorBracketHighlight.foreground6":"default",
+        "editorBracketHighlight.foreground1":"#FF00CC73",
+        "editorBracketHighlight.foreground2":"#7520BFCE",
+        "editorBracketHighlight.foreground3":"#8269FC",
+        "editorBracketHighlight.foreground4":"#710082",
+        "editorBracketHighlight.foreground5":"#DD00FFFB",
         "editorBracketMatch.background": "#34294f66",
         "editorBracketMatch.border": "#495495",
         "editorOverviewRuler.border": "#34294fb3",
@@ -285,7 +284,7 @@
         {
             "name": "Language constant (boolean, null)",
             "scope": "constant.language",
-            "settings": {"foreground": "#9E026A"}
+            "settings": {"foreground": "#FF2FC893"}
         },
 
         {
@@ -297,7 +296,7 @@
         {
             "name": "Entity",
             "scope": "entity.name",
-            "settings": {"foreground": "#D037E8FB"}
+            "settings": {"foreground": "#DD00FFFB"}
         },
 
         {
@@ -409,7 +408,7 @@
                         "keyword.operator.expression",
                         "keyword.operator.logical"
                      ],
-            "settings": {"foreground": "#DD00FFDE"}
+            "settings": {"foreground": "#DD00FFFB"}
         },
 
         {
@@ -808,7 +807,7 @@
         {
             "name": "Markdown links and image paths",
             "scope": "string.other.link.title.markdown",
-            "settings": {"foreground": "#DD00FFDE"}
+            "settings": {"foreground": "#DD00FFFB"}
         },
 
         {
