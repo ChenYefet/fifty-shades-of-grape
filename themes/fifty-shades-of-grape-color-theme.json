@@ -570,7 +570,7 @@
         {
             "name": "Python function call",
             "scope": "meta.function-call.generic.python",
-            "settings": {"foreground": "#DD00FFFB"}
+            "settings": {"foreground": "#FF00DDE2"}
         },
 
         {
