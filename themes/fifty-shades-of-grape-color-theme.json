@@ -408,7 +408,7 @@
                         "keyword.operator.expression",
                         "keyword.operator.logical"
                      ],
-            "settings": {"foreground": "#DD00FFFB"}
+            "settings": {"foreground": "#8269FC"}
         },
 
         {
@@ -570,7 +570,7 @@
         {
             "name": "Python function call",
             "scope": "meta.function-call.generic.python",
-            "settings": {"foreground": "#8269FC"}
+            "settings": {"foreground": "#DD00FFFB"}
         },
 
         {
