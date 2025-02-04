@@ -71,7 +71,7 @@
         "tab.inactiveForeground": "#dbdcffa4",
         "tab.hoverBackground": "#110021",
         "tab.hoverForeground": "#f2f2f2",
-        "tab.hoverBorder": "#FF2FC8D8",
+        "tab.hoverBorder": "#FF2FC8E2",
         "editor.background": "#0c0020",
         "editor.foreground": "#dbd4fa",
         "editorLineNumber.foreground": "#FF2FC83D",
@@ -132,9 +132,9 @@
         "statusBarItem.hoverForeground": "#00FFFF",
         "statusBar.border": "#B700FF45",
         "statusBar.debuggingBackground": "#00000f",
-        "statusBar.debuggingForeground": "#FF2FC8D8",
+        "statusBar.debuggingForeground": "#FF2FC8E2",
         "statusBar.noFolderBackground": "#00000f",
-        "statusBar.noFolderForeground": "#FF2FC8D8",
+        "statusBar.noFolderForeground": "#FF2FC8E2",
         "statusBarItem.remoteBackground": "#00000f",
         "statusBarItem.remoteForeground": "#AA00FF",
         "statusBarItem.remoteHoverForeground": "#FF2FC8",
@@ -148,7 +148,7 @@
         "extensionButton.prominentBackground": "#ff7b9c9f",
         "extensionButton.prominentHoverBackground": "#6200BD",
         "pickerGroup.foreground": "#FF2FC893",
-        "terminal.foreground": "#FF2FC8D8",
+        "terminal.foreground": "#FF2FC8E2",
         "terminal.ansiBlue": "#FF2FC8",
         "terminal.ansiBrightBlue": "#FF2FC8",
         "terminal.ansiBrightCyan": "#a35166",
@@ -179,7 +179,7 @@
         "scmGraph.historyItemBaseRefColor": "#00FFFFBC",
         "scmGraph.historyItemHoverAdditionsForeground": "#FF2FC8",
         "scmGraph.historyItemHoverDeletionsForeground": "#AA00FF",
-        "minimapGutter.addedBackground": "#FF2FC8D8",
+        "minimapGutter.addedBackground": "#FF2FC8E2",
         "minimapGutter.modifiedBackground": "#b893ce8f",
         "minimapGutter.deletedBackground": "#8269FC",
         "breadcrumbPicker.background": "#232530"
@@ -347,7 +347,7 @@
                         "entity.name.function",
                         "variable.function"
                      ],
-            "settings": {"foreground": "#FF2FC8D8"}
+            "settings": {"foreground": "#FF2FC8E2"}
         },
 
         {
