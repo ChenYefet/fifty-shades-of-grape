@@ -121,7 +121,7 @@
         "editorSuggestWidget.selectedBackground": "#ff00005e",
         "peekView.border": "#495495",
         "peekViewEditor.background": "#232530",
-        "peekViewEditor.matchHighlightBackground": "#00FFFFB4",
+        "peekViewEditor.matchHighlightBackground": "#00FFFFA2",
         "peekViewResult.background": "#232530",
         "peekViewResult.matchHighlightBackground": "#D1861655",
         "peekViewResult.selectionBackground": "#2a213980",
@@ -162,9 +162,9 @@
         "terminal.ansiRed": "#8269FC",
         "terminal.ansiYellow": "#bf00ff",
         "terminal.selectionBackground": "#ffffff3d",
-        "terminalCursor.background": "#00FFFFB4",
+        "terminalCursor.background": "#00FFFFA2",
         "terminalCursor.foreground": "#FF00DD",
-        "panelTitle.activeForeground": "#00FFFFB4",
+        "panelTitle.activeForeground": "#00FFFFA2",
         "panelTitle.activeBorder": "#FF00DD",
         "debugToolBar.background": "#463465",
         "walkThrough.embeddedEditorBackground": "#232530",
@@ -173,10 +173,10 @@
         "gitDecoration.addedResourceForeground": "#00FFFF",
         "gitDecoration.untrackedResourceForeground": "#FF00DD93",
         "gitDecoration.ignoredResourceForeground": "#ffffff59",
-        "gitDecoration.stageModifiedResourceForeground": "#00FFFFB4",
+        "gitDecoration.stageModifiedResourceForeground": "#00FFFFA2",
         "scmGraph.historyItemRefColor": "#FF00DD",
         "scmGraph.historyItemRemoteRefColor": "#7520BFFE",
-        "scmGraph.historyItemBaseRefColor": "#00FFFFB4",
+        "scmGraph.historyItemBaseRefColor": "#00FFFFA2",
         "scmGraph.historyItemHoverAdditionsForeground": "#FF00DD",
         "scmGraph.historyItemHoverDeletionsForeground": "#AA00FF",
         "minimapGutter.addedBackground": "#FF00DDD8",
@@ -249,7 +249,7 @@
             "name": "Parameter",
             "scope": "variable.parameter",
             "settings": {
-                            "foreground": "#00FFFFB4",
+                            "foreground": "#00FFFFA2",
                             "fontStyle": "italic"
                         }
         },
@@ -420,13 +420,13 @@
         {
             "name": "Support",
             "scope": "support",
-            "settings": {"foreground": "#00FFFFB4"}
+            "settings": {"foreground": "#00FFFFA2"}
         },
 
         {
             "name": "Support function",
             "scope": "support.function",
-            "settings": {"foreground": "#00FFFFB4"}
+            "settings": {"foreground": "#00FFFFA2"}
         },
 
         {
@@ -486,7 +486,7 @@
                         "variable.other.constant.property.js",
                         "variable.other.property.js"
                      ],
-            "settings": {"foreground": "#00FFFFB4"}
+            "settings": {"foreground": "#00FFFFA2"}
         },
 
         {
@@ -660,7 +660,7 @@
                         "source.elixir support.type.elixir",
                         "source.elixir meta.module.elixir entity.name.class.elixir"
                      ],
-            "settings": {"foreground": "#00FFFFB4"}
+            "settings": {"foreground": "#00FFFFA2"}
         },
 
         {
@@ -675,7 +675,7 @@
                         "source.elixir constant.other.symbol.elixir",
                         "source.elixir constant.other.keywords.elixir"
                      ],
-            "settings": {"foreground": "#00FFFFB4"}
+            "settings": {"foreground": "#00FFFFA2"}
         },
 
         {
@@ -706,7 +706,7 @@
             "name": "Clojure Globals",
             "scope": "entity.global.clojure",
             "settings": {
-                            "foreground": "#00FFFFB4",
+                            "foreground": "#00FFFFA2",
                             "fontStyle": "bold"
                         }
         },
@@ -715,7 +715,7 @@
             "name": "Clojure Storage",
             "scope": "storage.control.clojure",
             "settings": {
-                            "foreground": "#00FFFFB4",
+                            "foreground": "#00FFFFA2",
                             "fontStyle": "italic"
                         }
         },
@@ -753,7 +753,7 @@
         {
             "name": "Go Function Calls",
             "scope": "source.go meta.function-call.go",
-            "settings": {"foreground": "#00FFFFB4"}
+            "settings": {"foreground": "#00FFFFA2"}
         },
 
         {
@@ -789,7 +789,7 @@
                         "source.go constant.other.placeholder.go",
                         "source.go variable"
                      ],
-            "settings": {"foreground": "#00FFFFB4"}
+            "settings": {"foreground": "#00FFFFA2"}
         },
 
         {
@@ -826,7 +826,7 @@
             "name": "Markdown italic",
             "scope": "markup.italic.markdown",
             "settings": {
-                            "foreground": "#00FFFFB4",
+                            "foreground": "#00FFFFA2",
                             "fontStyle": "italic"
                         }
         },
@@ -835,7 +835,7 @@
             "name": "Markdown bold",
             "scope": "markup.bold.markdown",
             "settings": {
-                            "foreground": "#00FFFFB4",
+                            "foreground": "#00FFFFA2",
                             "fontStyle": "bold"
                         }
         },
@@ -874,13 +874,13 @@
         {
             "name": "Dart numerics",
             "scope": "constant.numeric.dart",
-            "settings": {"foreground": "#00FFFFB4"}
+            "settings": {"foreground": "#00FFFFA2"}
         },
 
         {
             "name": "Scala variable params",
             "scope": "variable.parameter.scala",
-            "settings": {"foreground": "#00FFFFB4"}
+            "settings": {"foreground": "#00FFFFA2"}
         },
 
         {
