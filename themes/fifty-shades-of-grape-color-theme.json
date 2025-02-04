@@ -100,7 +100,7 @@
         "editorBracketMatch.background": "#34294f66",
         "editorBracketMatch.border": "#495495",
         "editorOverviewRuler.border": "#34294fb3",
-        "editorOverviewRuler.findMatchForeground": "#00FFFF8E",
+        "editorOverviewRuler.findMatchForeground": "#00FFFFA2",
         "editorOverviewRuler.modifiedForeground": "#b893ce99",
         "editorOverviewRuler.addedForeground": "#FF2FC8",
         "editorOverviewRuler.deletedForeground": "#FF2FC899",
@@ -121,7 +121,7 @@
         "editorSuggestWidget.selectedBackground": "#ff00005e",
         "peekView.border": "#495495",
         "peekViewEditor.background": "#232530",
-        "peekViewEditor.matchHighlightBackground": "#00FFFFBC",
+        "peekViewEditor.matchHighlightBackground": "#00FFFFB4",
         "peekViewResult.background": "#232530",
         "peekViewResult.matchHighlightBackground": "#D1861655",
         "peekViewResult.selectionBackground": "#2a213980",
@@ -162,9 +162,9 @@
         "terminal.ansiRed": "#8269FC",
         "terminal.ansiYellow": "#bf00ff",
         "terminal.selectionBackground": "#ffffff3d",
-        "terminalCursor.background": "#00FFFFBC",
+        "terminalCursor.background": "#00FFFFB4",
         "terminalCursor.foreground": "#FF2FC8",
-        "panelTitle.activeForeground": "#00FFFFBC",
+        "panelTitle.activeForeground": "#00FFFFB4",
         "panelTitle.activeBorder": "#FF2FC8",
         "debugToolBar.background": "#463465",
         "walkThrough.embeddedEditorBackground": "#232530",
@@ -173,10 +173,10 @@
         "gitDecoration.addedResourceForeground": "#00FFFF",
         "gitDecoration.untrackedResourceForeground": "#FF2FC893",
         "gitDecoration.ignoredResourceForeground": "#ffffff59",
-        "gitDecoration.stageModifiedResourceForeground": "#00FFFFBC",
+        "gitDecoration.stageModifiedResourceForeground": "#00FFFFB4",
         "scmGraph.historyItemRefColor": "#FF2FC8",
         "scmGraph.historyItemRemoteRefColor": "#7520BFFE",
-        "scmGraph.historyItemBaseRefColor": "#00FFFFBC",
+        "scmGraph.historyItemBaseRefColor": "#00FFFFB4",
         "scmGraph.historyItemHoverAdditionsForeground": "#FF2FC8",
         "scmGraph.historyItemHoverDeletionsForeground": "#AA00FF",
         "minimapGutter.addedBackground": "#FF2FC8E2",
@@ -249,7 +249,7 @@
             "name": "Parameter",
             "scope": "variable.parameter",
             "settings": {
-                            "foreground": "#00FFFF8E",
+                            "foreground": "#00FFFFB4",
                             "fontStyle": "italic"
                         }
         },
@@ -420,13 +420,13 @@
         {
             "name": "Support",
             "scope": "support",
-            "settings": {"foreground": "#00FFFFBC"}
+            "settings": {"foreground": "#00FFFFB4"}
         },
 
         {
             "name": "Support function",
             "scope": "support.function",
-            "settings": {"foreground": "#00FFFFBC"}
+            "settings": {"foreground": "#00FFFFB4"}
         },
 
         {
@@ -486,7 +486,7 @@
                         "variable.other.constant.property.js",
                         "variable.other.property.js"
                      ],
-            "settings": {"foreground": "#00FFFFBC"}
+            "settings": {"foreground": "#00FFFFB4"}
         },
 
         {
@@ -660,7 +660,7 @@
                         "source.elixir support.type.elixir",
                         "source.elixir meta.module.elixir entity.name.class.elixir"
                      ],
-            "settings": {"foreground": "#00FFFFBC"}
+            "settings": {"foreground": "#00FFFFB4"}
         },
 
         {
@@ -675,7 +675,7 @@
                         "source.elixir constant.other.symbol.elixir",
                         "source.elixir constant.other.keywords.elixir"
                      ],
-            "settings": {"foreground": "#00FFFFBC"}
+            "settings": {"foreground": "#00FFFFB4"}
         },
 
         {
@@ -706,7 +706,7 @@
             "name": "Clojure Globals",
             "scope": "entity.global.clojure",
             "settings": {
-                            "foreground": "#00FFFFBC",
+                            "foreground": "#00FFFFB4",
                             "fontStyle": "bold"
                         }
         },
@@ -715,7 +715,7 @@
             "name": "Clojure Storage",
             "scope": "storage.control.clojure",
             "settings": {
-                            "foreground": "#00FFFFBC",
+                            "foreground": "#00FFFFB4",
                             "fontStyle": "italic"
                         }
         },
@@ -753,7 +753,7 @@
         {
             "name": "Go Function Calls",
             "scope": "source.go meta.function-call.go",
-            "settings": {"foreground": "#00FFFFBC"}
+            "settings": {"foreground": "#00FFFFB4"}
         },
 
         {
@@ -789,7 +789,7 @@
                         "source.go constant.other.placeholder.go",
                         "source.go variable"
                      ],
-            "settings": {"foreground": "#00FFFFBC"}
+            "settings": {"foreground": "#00FFFFB4"}
         },
 
         {
@@ -826,7 +826,7 @@
             "name": "Markdown italic",
             "scope": "markup.italic.markdown",
             "settings": {
-                            "foreground": "#00FFFFBC",
+                            "foreground": "#00FFFFB4",
                             "fontStyle": "italic"
                         }
         },
@@ -835,7 +835,7 @@
             "name": "Markdown bold",
             "scope": "markup.bold.markdown",
             "settings": {
-                            "foreground": "#00FFFFBC",
+                            "foreground": "#00FFFFB4",
                             "fontStyle": "bold"
                         }
         },
@@ -874,13 +874,13 @@
         {
             "name": "Dart numerics",
             "scope": "constant.numeric.dart",
-            "settings": {"foreground": "#00FFFFBC"}
+            "settings": {"foreground": "#00FFFFB4"}
         },
 
         {
             "name": "Scala variable params",
             "scope": "variable.parameter.scala",
-            "settings": {"foreground": "#00FFFFBC"}
+            "settings": {"foreground": "#00FFFFB4"}
         },
 
         {
