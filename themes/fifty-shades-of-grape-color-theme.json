@@ -71,7 +71,7 @@
         "tab.inactiveForeground": "#dbdcffa4",
         "tab.hoverBackground": "#110021",
         "tab.hoverForeground": "#f2f2f2",
-        "tab.hoverBorder": "#FF00DDE2",
+        "tab.hoverBorder": "#FF00DDD8",
         "editor.background": "#0c0020",
         "editor.foreground": "#dbd4fa",
         "editorLineNumber.foreground": "#FF00DD3D",
@@ -132,9 +132,9 @@
         "statusBarItem.hoverForeground": "#00FFFF",
         "statusBar.border": "#B700FF45",
         "statusBar.debuggingBackground": "#00000f",
-        "statusBar.debuggingForeground": "#FF00DDE2",
+        "statusBar.debuggingForeground": "#FF00DDD8",
         "statusBar.noFolderBackground": "#00000f",
-        "statusBar.noFolderForeground": "#FF00DDE2",
+        "statusBar.noFolderForeground": "#FF00DDD8",
         "statusBarItem.remoteBackground": "#00000f",
         "statusBarItem.remoteForeground": "#AA00FF",
         "statusBarItem.remoteHoverForeground": "#FF00DD",
@@ -148,7 +148,7 @@
         "extensionButton.prominentBackground": "#ff7b9c9f",
         "extensionButton.prominentHoverBackground": "#6200BD",
         "pickerGroup.foreground": "#FF00DD93",
-        "terminal.foreground": "#FF00DDE2",
+        "terminal.foreground": "#FF00DDD8",
         "terminal.ansiBlue": "#FF00DD",
         "terminal.ansiBrightBlue": "#FF00DD",
         "terminal.ansiBrightCyan": "#a35166",
@@ -179,7 +179,7 @@
         "scmGraph.historyItemBaseRefColor": "#00FFFFB4",
         "scmGraph.historyItemHoverAdditionsForeground": "#FF00DD",
         "scmGraph.historyItemHoverDeletionsForeground": "#AA00FF",
-        "minimapGutter.addedBackground": "#FF00DDE2",
+        "minimapGutter.addedBackground": "#FF00DDD8",
         "minimapGutter.modifiedBackground": "#b893ce8f",
         "minimapGutter.deletedBackground": "#8269FC",
         "breadcrumbPicker.background": "#232530"
@@ -290,7 +290,7 @@
         {
             "name": "Character escape",
             "scope": "constant.character.escape",
-            "settings": {"foreground": "#FF00DDE2"}
+            "settings": {"foreground": "#FF00DDD8"}
         },
 
         {
@@ -347,7 +347,7 @@
                         "entity.name.function",
                         "variable.function"
                      ],
-            "settings": {"foreground": "#FF00DDE2"}
+            "settings": {"foreground": "#FF00DDD8"}
         },
 
         {
@@ -570,7 +570,7 @@
         {
             "name": "Python function call",
             "scope": "meta.function-call.generic.python",
-            "settings": {"foreground": "#FF00DDE2"}
+            "settings": {"foreground": "#FF00DDD8"}
         },
 
         {
