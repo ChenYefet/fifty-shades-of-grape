@@ -2,7 +2,7 @@
     "Pinks":
     
     {
-        "bland_pink": "#BF94B8",
+        "bland_pink": "#F5CDFF9C",
         "lovely_pink": "#FF00DD",
         "slightly_darker_lovely_pink": "#FF00DDE2",
         "blush_pink": "#FF7B9C9F",
@@ -22,16 +22,16 @@
         "lightest_purple": "#DABDFF96",
         "pink_purple": "#DD00FF",
         "slightly_darker_pink_purple": "#DD00FFFB",
+        "wine_purple": "#710082",
         "lovely_purple": "#AA00FF",
         "slightly_darker_lovely_purple": "#AA00FFE2",
+        "dark_purple": "#7520BFFE",
+        "very_dark_purple": "#7520BFCE",
+        "extremely_dark_purple": "#8300C095",
+        "ghost_purple": "#B700FF45",
         "grape_purple": "#8269FC",
         "dark_grape": "#6200BD",
         "very_dark_grape": "#420079",
-        "dark_purple": "#7520BFFE",
-        "very_dark_purple": "#7520BFCE",
-        "wine_purple": "#710082",
-        "extremely_dark_purple": "#8300C095",
-        "ghost_purple": "#B700FF45",
         "ghost_grape": "#6F00FF45"
     },
 
