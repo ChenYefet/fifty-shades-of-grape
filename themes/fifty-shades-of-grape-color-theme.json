@@ -96,7 +96,7 @@
         "editorBracketHighlight.foreground2":"#7520BFCE",
         "editorBracketHighlight.foreground3":"#8269FC",
         "editorBracketHighlight.foreground4":"#710082",
-        "editorBracketHighlight.foreground5":"#DD00FFFB",
+        "editorBracketHighlight.foreground5":"#DD00FFDB",
         "editorBracketMatch.background": "#34294f66",
         "editorBracketMatch.border": "#495495",
         "editorOverviewRuler.border": "#34294fb3",
@@ -278,7 +278,7 @@
         {
             "name": "Number",
             "scope": "constant.numeric",
-            "settings": {"foreground": "#DD00FFFB"}
+            "settings": {"foreground": "#DD00FFDB"}
         },
 
         {
@@ -296,7 +296,7 @@
         {
             "name": "Entity",
             "scope": "entity.name",
-            "settings": {"foreground": "#DD00FFFB"}
+            "settings": {"foreground": "#DD00FFDB"}
         },
 
         {
@@ -807,7 +807,7 @@
         {
             "name": "Markdown links and image paths",
             "scope": "string.other.link.title.markdown",
-            "settings": {"foreground": "#DD00FFFB"}
+            "settings": {"foreground": "#DD00FFDB"}
         },
 
         {
