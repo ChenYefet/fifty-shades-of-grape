@@ -389,7 +389,7 @@
         {
             "name": "Operator",
             "scope": "keyword.operator",
-            "settings": {"foreground": "#DABDFF96"}
+            "settings": {"foreground": "#8269FC"}
         },
 
         {
