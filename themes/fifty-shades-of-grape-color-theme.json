@@ -296,7 +296,7 @@
         {
             "name": "Entity",
             "scope": "entity.name",
-            "settings": {"foreground": "#DD00FFDB"}
+            "settings": {"foreground": "#B19AFF79"}
         },
 
         {
