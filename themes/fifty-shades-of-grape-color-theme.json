@@ -18,7 +18,7 @@
         "dropdown.background": "#232530",
         "dropdown.listBackground": "#2a2139",
         "input.background": "#2a2139",
-        "inputOption.activeBorder": "#6200BD99",
+        "inputOption.activeBorder": "#7A17E499",
         "inputValidation.errorBackground": "#FF00DD80",
         "inputValidation.errorBorder": "#00000000",
         "scrollbar.shadow": "#2a2139",
@@ -146,7 +146,7 @@
         "titleBar.inactiveForeground": "#ffffff99",
         "titleBar.border": "#0089983D",
         "extensionButton.prominentBackground": "#ff7b9c9f",
-        "extensionButton.prominentHoverBackground": "#6200BD",
+        "extensionButton.prominentHoverBackground": "#7A17E4",
         "pickerGroup.foreground": "#FF00DD93",
         "terminal.foreground": "#FF00DDD8",
         "terminal.ansiBlue": "#FF00DD",
@@ -332,7 +332,7 @@
                         "entity.name.type",
                         "meta.attribute.class.html"
                      ],
-            "settings": {"foreground": "#6200BD"}
+            "settings": {"foreground": "#7A17E4"}
         },
 
         {
@@ -432,7 +432,7 @@
         {
             "name": "Support variable",
             "scope": "support.variable",
-            "settings": {"foreground": "#6200BD"}
+            "settings": {"foreground": "#7A17E4"}
         },
 
         {
@@ -528,7 +528,7 @@
                         "markup.heading",
                         "entity.name.section"
                      ],
-            "settings": {"foreground": "#6200BD"}
+            "settings": {"foreground": "#7A17E4"}
         },
 
         {
@@ -552,7 +552,7 @@
         {
             "name": "Markup list",
             "scope": "beginning.punctuation.definition.list",
-            "settings": {"foreground": "#6200BD"}
+            "settings": {"foreground": "#7A17E4"}
         },
 
         {
@@ -588,7 +588,7 @@
         {
             "name": "C# local variable",
             "scope": "entity.name.variable.local.cs",
-            "settings": {"foreground": "#6200BD"}
+            "settings": {"foreground": "#7A17E4"}
         },
 
         {
@@ -597,7 +597,7 @@
                         "entity.name.variable.field.cs",
                         "entity.name.variable.property.cs"
                      ],
-            "settings": {"foreground": "#6200BD"}
+            "settings": {"foreground": "#7A17E4"}
         },
 
         {
@@ -697,7 +697,7 @@
             "name": "Elixir Binary Punctuation",
             "scope": "source.elixir .punctuation.binary.elixir",
             "settings": {
-                            "foreground": "#6200BD",
+                            "foreground": "#7A17E4",
                             "fontStyle": "italic"
                         }
         },
@@ -741,13 +741,13 @@
         {
             "name": "Clojure Symbols",
             "scope": "meta.symbol.clojure",
-            "settings": {"foreground": "#6200BD"}
+            "settings": {"foreground": "#7A17E4"}
         },
 
         {
             "name": "Go basic",
             "scope": "source.go",
-            "settings": {"foreground": "#6200BD"}
+            "settings": {"foreground": "#7A17E4"}
         },
 
         {
@@ -817,7 +817,7 @@
                         "entity.name.section.markdown"
                      ],
             "settings": {
-                            "foreground": "#6200BD",
+                            "foreground": "#7A17E4",
                             "fontStyle": "bold"
                         }
         },
