@@ -13,6 +13,7 @@
         "elegant_pink": "#FF00CC73",
         "ghost_pink": "#FF00DD3D",
         "ghost_maroon": "#680045E0",
+        "very_dark_purple_pink": "#BC008AD0",
         "shadow_purple_pink": "#FF00BB6C"
     },
 
@@ -40,6 +41,7 @@
 
     {
         "lovely_turquoise": "#00FFFF",
+        "slightly_darker_lovely_turquoise": "#00FFFFD2",
         "dark_turquoise": "#00FFFFA2",
         "very_dark_turquoise": "#00FFFF8E",
         "super_dark_turquoise": "#00BCBC8E",
