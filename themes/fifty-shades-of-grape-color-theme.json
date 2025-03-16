@@ -856,7 +856,7 @@
                         "source.python",
                         "source.scala"
                      ],
-            "settings": {"foreground": "#AA00FF"}
+            "settings": {"foreground": "#B19AFF79"}
         },
 
         {
