@@ -266,7 +266,7 @@
         {
             "name": "Constant",
             "scope": "constant",
-            "settings": {"foreground": "#ff7b9c9f"}
+            "settings": {"foreground": "#FF00DD93"}
         },
 
         {
