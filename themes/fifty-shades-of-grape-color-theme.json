@@ -70,7 +70,7 @@
         "tab.activeBorder": "#AA00FF",
         "tab.activeBorderTop": "#00000000",
         "tab.hoverBackground": "#110021",
-        "tab.hoverForeground": "#f2f2f2",
+        "tab.hoverForeground": "#AA00FF",
         "tab.hoverBorder": "#FF00DDD8",
         "editor.background": "#0c0020",
         "editor.foreground": "#dbd4fa",
