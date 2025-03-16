@@ -564,7 +564,7 @@
         {
             "name": "Markup link description",
             "scope": "string.other.link.description",
-            "settings": {"foreground": "#ff7b9c9f"}
+            "settings": {"foreground": "#7520BFFE"}
         },
 
         {
@@ -807,7 +807,7 @@
         {
             "name": "Markdown links and image paths",
             "scope": "string.other.link.title.markdown",
-            "settings": {"foreground": "#DD00FFDB"}
+            "settings": {"foreground": "#AA00FF"}
         },
 
         {
