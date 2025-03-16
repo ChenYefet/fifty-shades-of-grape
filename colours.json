@@ -21,7 +21,6 @@
 
     {
         "grey_purple": "#DABDFF96",
-        "bland_purple": "#B19AFF79",
         "pink_purple": "#DD00FF",
         "slightly_darker_pink_purple": "#DD00FFDB",
         "wine_purple": "#710082",
@@ -30,6 +29,7 @@
         "dark_purple": "#7520BFFE",
         "very_dark_purple": "#7520BFCE",
         "extremely_dark_purple": "#8300C095",
+        "shadow_purple": "#B19AFF79",
         "ghost_purple": "#B700FF45",
         "grape_purple": "#8269FC",
         "dark_grape": "#7A17E4",
