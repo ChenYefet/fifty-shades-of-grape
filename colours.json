@@ -36,10 +36,11 @@
         "ghost_grape": "#6F00FF45"
     },
 
-    "Blues":
+    "Turquoises":
 
     {
         "lovely_turquoise": "#00FFFF",
+        "less_intense_turquoise": "#00CCCC",
         "slightly_darker_lovely_turquoise": "#00FFFFD2",
         "dark_turquoise": "#00FFFFA2",
         "very_dark_turquoise": "#00FFFF8E",
