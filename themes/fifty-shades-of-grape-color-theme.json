@@ -267,6 +267,12 @@
         },
 
         {
+            "name": "Storage (format specifier)",
+            "scope": "storage.type.format.python",
+            "settings": {"foreground": "#FF00DD93"}
+        },
+        
+        {
             "name": "Constant",
             "scope": "constant",
             "settings": {"foreground": "#FF00DD93"}
