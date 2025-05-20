@@ -262,14 +262,21 @@
         },
 
         {
-            "name": "Storage (declaration or modifier keyword)",
+            "name": "Storage (modifier keyword)",
             "scope": [
-                        "storage.type",
                         "storage.modifier"
+                     ],
+            "settings": {"foreground": "#710082"}
+        },
+
+        {
+            "name": "Storage (declaration keyword)",
+            "scope": [
+                        "storage.type"
                      ],
             "settings": {"foreground": "#AA00FFE2"}
         },
-
+        
         {
             "name": "Storage (format specifier)",
             "scope": "storage.type.format.python",
