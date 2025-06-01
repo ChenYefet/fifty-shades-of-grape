@@ -3,7 +3,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   sodipodi:docname="chen_yefet_turquoise_json.svg"
+   sodipodi:docname="chen_yefet_turquoise_json_logo.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -19,11 +19,11 @@
        inkscape:collect="always"
        id="linearGradient10945">
       <stop
-         style="stop-color:#00ffff;stop-opacity:0;"
+         style="stop-color:#a601ff;stop-opacity:1;"
          offset="0"
          id="stop10943" />
       <stop
-         style="stop-color:#00ffff;stop-opacity:1;"
+         style="stop-color:#00ffb3;stop-opacity:1;"
          offset="1"
          id="stop10941" />
     </linearGradient>
@@ -31,11 +31,11 @@
        inkscape:collect="always"
        id="linearGradient8031">
       <stop
-         style="stop-color:#00ffff;stop-opacity:1;"
+         style="stop-color:#00ffb3;stop-opacity:1;"
          offset="0"
          id="stop8027" />
       <stop
-         style="stop-color:#00ffff;stop-opacity:0;"
+         style="stop-color:#a601ff;stop-opacity:1;"
          offset="1"
          id="stop8029" />
     </linearGradient>
@@ -93,8 +93,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="24.25"
-     inkscape:cx="13.71134"
-     inkscape:cy="16"
+     inkscape:cx="11.443299"
+     inkscape:cy="16.948454"
      inkscape:window-width="1920"
      inkscape:window-height="974"
      inkscape:window-x="-11"
