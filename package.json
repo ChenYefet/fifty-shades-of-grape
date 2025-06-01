@@ -111,6 +111,7 @@
         "shiny",
         "reflect"
     ],
+    "license": "MIT",
     "dependencies": {
         "fifty-shades-of-grape": "file:"
     }
