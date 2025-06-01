@@ -1,0 +1,25 @@
+{
+  "iconDefinitions": {
+    "chen_yefet_purple_pink_python_icon": {
+      "iconPath": "./icons/chen_yefet_purple_pink_python_icon.svg"
+    }
+  },
+  "fileExtensions": {
+    "py": "chen_yefet_purple_pink_python_icon"
+  },
+  "light": {
+    "fileExtensions": {
+      "py": "chen_yefet_purple_pink_python_icon"
+    }
+  },
+  "highContrast": {
+    "fileExtensions": {
+      "py": "chen_yefet_purple_pink_python_icon"
+    }
+  },
+  "fileNames": {},
+  "folderNames": {},
+  "folder": "_default",
+  "file": "_default",
+  "hideExplorerArrows": false
+}
