@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="chen_yefet_vscode_folder_opened.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs16">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient880">
+      <stop
+         style="stop-color:#ff00dd;stop-opacity:1;"
+         offset="0"
+         id="stop876" />
+      <stop
+         style="stop-color:#a80098;stop-opacity:1;"
+         offset="1"
+         id="stop878" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient880"
+       id="radialGradient882"
+       cx="15"
+       cy="16"
+       fx="15"
+       fy="16"
+       r="14.5"
+       gradientTransform="matrix(1,0,0,0.72413793,0,4.4137931)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="24.25"
+     inkscape:cx="13.71134"
+     inkscape:cy="16.041237"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <title
+     id="title2">folder_type_vscode_opened</title>
+  <path
+     d="M27.4,5.5H18.2L16.1,9.7H4.3v4H.5L4.3,26.5H29.5V5.5ZM20.2,7.6h7.1V9.7H19.2Zm5.5,6.1H6.6V11.8H27.4v7.626Z"
+     style="fill:url(#radialGradient882);fill-opacity:1"
+     id="path4" />
+  <path
+     d="M30.257,12.333l-4.324-2.082a1.308,1.308,0,0,0-1.492.253L10.285,23.411a.875.875,0,0,0-.057,1.236.766.766,0,0,0,.057.057l1.157,1.052a.873.873,0,0,0,1.116.049L29.607,12.873A.868.868,0,0,1,31,13.565v-.05A1.311,1.311,0,0,0,30.257,12.333Z"
+     style="fill:#7000a8;fill-opacity:1"
+     id="path6" />
+  <path
+     d="M30.257,28.788,25.933,30.87a1.308,1.308,0,0,1-1.492-.253L10.285,17.71a.875.875,0,0,1-.057-1.236.766.766,0,0,1,.057-.057l1.157-1.052a.873.873,0,0,1,1.116-.049L29.607,28.248A.868.868,0,0,0,31,27.556v.05A1.311,1.311,0,0,1,30.257,28.788Z"
+     style="fill:#8800cc;fill-opacity:1"
+     id="path8" />
+  <path
+     d="M25.933,30.871a1.308,1.308,0,0,1-1.491-.254.768.768,0,0,0,1.311-.543V11.047a.768.768,0,0,0-1.311-.543,1.306,1.306,0,0,1,1.491-.254l4.324,2.079A1.314,1.314,0,0,1,31,13.512v14.1a1.314,1.314,0,0,1-.743,1.183Z"
+     style="fill:#aa1fef;fill-opacity:1"
+     id="path10" />
+  <metadata
+     id="metadata22470">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>folder_type_vscode_opened</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
