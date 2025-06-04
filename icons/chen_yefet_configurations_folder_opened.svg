@@ -35,7 +35,7 @@
          offset="0"
          id="stop2377" />
       <stop
-         style="stop-color:#007373;stop-opacity:1;"
+         style="stop-color:#00a8a8;stop-opacity:1;"
          offset="1"
          id="stop2379" />
     </linearGradient>
@@ -43,25 +43,14 @@
        inkscape:collect="always"
        id="linearGradient915">
       <stop
-         style="stop-color:#00ffff;stop-opacity:1;"
-         offset="0"
-         id="stop911" />
-      <stop
          style="stop-color:#007575;stop-opacity:1;"
-         offset="1"
+         offset="0"
          id="stop913" />
+      <stop
+         style="stop-color:#00e5e5;stop-opacity:1;"
+         offset="1"
+         id="stop911" />
     </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient915"
-       id="radialGradient919"
-       cx="16.9"
-       cy="16"
-       fx="16.9"
-       fy="16"
-       r="12.6"
-       gradientTransform="matrix(1,0,0,0.83333333,0,2.6666667)"
-       gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2381"
@@ -84,6 +73,15 @@
        r="10.3595"
        gradientTransform="matrix(1,0,0,1.0138721,0,-0.28430698)"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient915"
+       id="linearGradient6150"
+       x1="4.3000002"
+       y1="16"
+       x2="29.5"
+       y2="16"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="namedview12"
@@ -96,7 +94,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="24.25"
-     inkscape:cx="13.71134"
+     inkscape:cx="11.443299"
      inkscape:cy="16"
      inkscape:window-width="1920"
      inkscape:window-height="974"
@@ -108,7 +106,7 @@
      id="title2">folder_type_config_opened</title>
   <path
      d="M27.4,5.5H18.2L16.1,9.7H4.3V26.5H29.5V5.5Zm0,18.7H6.6V11.8H27.4Zm0-14.5H19.2l1-2.1h7.1V9.7Z"
-     style="fill:url(#radialGradient919);fill-opacity:1"
+     style="fill:url(#linearGradient6150);fill-opacity:1"
      id="path4" />
   <polygon
      points="25.7 13.7 0.5 13.7 4.3 26.5 29.5 26.5 25.7 13.7"
