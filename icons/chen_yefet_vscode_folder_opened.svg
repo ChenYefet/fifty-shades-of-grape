@@ -17,6 +17,42 @@
      id="defs16">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient7449">
+      <stop
+         style="stop-color:#8800cc;stop-opacity:1;"
+         offset="0"
+         id="stop7445" />
+      <stop
+         style="stop-color:#ff00dd;stop-opacity:1;"
+         offset="1"
+         id="stop7447" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4860">
+      <stop
+         style="stop-color:#7000a8;stop-opacity:1;"
+         offset="0"
+         id="stop4856" />
+      <stop
+         style="stop-color:#ff00dd;stop-opacity:1;"
+         offset="1"
+         id="stop4858" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2658">
+      <stop
+         style="stop-color:#69009e;stop-opacity:1;"
+         offset="0"
+         id="stop2654" />
+      <stop
+         style="stop-color:#aa00ff;stop-opacity:1;"
+         offset="1"
+         id="stop2656" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient880">
       <stop
          style="stop-color:#ff00dd;stop-opacity:1;"
@@ -38,6 +74,33 @@
        r="14.5"
        gradientTransform="matrix(1,0,0,0.72413793,0,4.4137931)"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2658"
+       id="linearGradient2660"
+       x1="24.442"
+       y1="20.560291"
+       x2="31"
+       y2="20.560291"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4860"
+       id="linearGradient4862"
+       x1="9.9996231"
+       y1="18.05231"
+       x2="31"
+       y2="18.05231"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7449"
+       id="linearGradient7451"
+       x1="9.9996231"
+       y1="23.06869"
+       x2="31"
+       y2="23.06869"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="namedview14"
@@ -50,7 +113,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="24.25"
-     inkscape:cx="13.71134"
+     inkscape:cx="11.443299"
      inkscape:cy="16.041237"
      inkscape:window-width="1920"
      inkscape:window-height="974"
@@ -66,15 +129,15 @@
      id="path4" />
   <path
      d="M30.257,12.333l-4.324-2.082a1.308,1.308,0,0,0-1.492.253L10.285,23.411a.875.875,0,0,0-.057,1.236.766.766,0,0,0,.057.057l1.157,1.052a.873.873,0,0,0,1.116.049L29.607,12.873A.868.868,0,0,1,31,13.565v-.05A1.311,1.311,0,0,0,30.257,12.333Z"
-     style="fill:#7000a8;fill-opacity:1"
+     style="fill:url(#linearGradient4862);fill-opacity:1"
      id="path6" />
   <path
      d="M30.257,28.788,25.933,30.87a1.308,1.308,0,0,1-1.492-.253L10.285,17.71a.875.875,0,0,1-.057-1.236.766.766,0,0,1,.057-.057l1.157-1.052a.873.873,0,0,1,1.116-.049L29.607,28.248A.868.868,0,0,0,31,27.556v.05A1.311,1.311,0,0,1,30.257,28.788Z"
-     style="fill:#8800cc;fill-opacity:1"
+     style="fill:url(#linearGradient7451);fill-opacity:1"
      id="path8" />
   <path
      d="M25.933,30.871a1.308,1.308,0,0,1-1.491-.254.768.768,0,0,0,1.311-.543V11.047a.768.768,0,0,0-1.311-.543,1.306,1.306,0,0,1,1.491-.254l4.324,2.079A1.314,1.314,0,0,1,31,13.512v14.1a1.314,1.314,0,0,1-.743,1.183Z"
-     style="fill:#aa1fef;fill-opacity:1"
+     style="fill:url(#linearGradient2660);fill-opacity:1"
      id="path10" />
   <metadata
      id="metadata22470">
