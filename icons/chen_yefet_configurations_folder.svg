@@ -19,13 +19,13 @@
        inkscape:collect="always"
        id="linearGradient5966">
       <stop
-         style="stop-color:#3b3b3b;stop-opacity:1;"
+         style="stop-color:#8f00db;stop-opacity:1;"
          offset="0"
-         id="stop5962" />
+         id="stop37395" />
       <stop
-         style="stop-color:#939393;stop-opacity:1;"
+         style="stop-color:#eb00ca;stop-opacity:1;"
          offset="1"
-         id="stop5964" />
+         id="stop22050" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -50,16 +50,14 @@
        r="12.6"
        gradientTransform="matrix(1,0,0,0.83333333,0,2.6666667)"
        gradientUnits="userSpaceOnUse" />
-    <radialGradient
+    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5966"
-       id="radialGradient5968"
-       cx="20.5945"
-       cy="20.494905"
-       fx="20.5945"
-       fy="20.494905"
-       r="10.3595"
-       gradientTransform="matrix(1,0,0,1.0138721,0,-0.28430698)"
+       id="linearGradient43262"
+       x1="10.235"
+       y1="20.494905"
+       x2="30.954"
+       y2="20.494905"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -89,7 +87,7 @@
      id="path4" />
   <path
      d="M26.049,26.785l.675-.671c3.123.1,3.171-.008,3.308-.329L30.89,23.7l.064-.2-.07-.173c-.037-.092-.15-.365-2.1-2.224v-.978c2.25-2.168,2.2-2.279,2.074-2.6L30,15.418c-.128-.317-.177-.44-3.278-.356l-.675-.7a15.125,15.125,0,0,0-.106-3.08l-.087-.2-2.231-.975c-.329-.15-.444-.2-2.55,2.09l-.947-.014c-2.168-2.315-2.271-2.273-2.6-2.141l-2.074.839c-.325.131-.44.178-.314,3.328l-.67.668c-3.122-.1-3.17.009-3.305.329l-.86,2.09-.068.2.071.174c.037.09.146.36,2.1,2.222v.975c-2.25,2.168-2.2,2.279-2.072,2.6l.854,2.113c.131.323.177.438,3.277.357l.675.7a15.182,15.182,0,0,0,.1,3.075l.087.2,2.245.981c.326.137.44.185,2.54-2.1l.947.012c2.171,2.318,2.282,2.273,2.6,2.144l2.069-.836C26.066,29.982,26.18,29.937,26.049,26.785Zm-8.894-4.893a3.718,3.718,0,1,1,4.866,2.118A3.761,3.761,0,0,1,17.155,21.892Z"
-     style="fill:url(#radialGradient5968);fill-opacity:1"
+     style="fill:url(#linearGradient43262);fill-opacity:1"
      id="path6" />
   <metadata
      id="metadata6376">
