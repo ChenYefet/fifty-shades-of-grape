@@ -66,13 +66,9 @@
       <stop
          style="stop-color:#8800cc;stop-opacity:1;"
          offset="0"
-         id="stop1148" />
-      <stop
-         style="stop-color:#5e008a;stop-opacity:1;"
-         offset="0.5"
          id="stop13086" />
       <stop
-         style="stop-color:#8800cc;stop-opacity:1;"
+         style="stop-color:#ff00dd;stop-opacity:1;"
          offset="1"
          id="stop1150" />
     </linearGradient>
@@ -141,7 +137,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="12.125"
-     inkscape:cx="-3.628866"
+     inkscape:cx="-3.5463918"
      inkscape:cy="10.309278"
      inkscape:window-width="1920"
      inkscape:window-height="974"
