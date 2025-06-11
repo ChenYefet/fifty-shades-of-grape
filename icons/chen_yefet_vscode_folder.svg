@@ -56,16 +56,12 @@
        id="linearGradient2372">
       <stop
          style="stop-color:#ff00dd;stop-opacity:1;"
-         offset="0.44285715"
+         offset="0"
          id="stop2368" />
       <stop
-         style="stop-color:#6e0060;stop-opacity:1;"
-         offset="0.83591837"
-         id="stop887" />
-      <stop
-         style="stop-color:#ff00dd;stop-opacity:1;"
+         style="stop-color:#00ffff;stop-opacity:1;"
          offset="1"
-         id="stop2370" />
+         id="stop887" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -114,9 +110,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="24.25"
-     inkscape:cx="14.515464"
-     inkscape:cy="18.969072"
+     inkscape:zoom="8.5736697"
+     inkscape:cx="24.143687"
+     inkscape:cy="20.061421"
      inkscape:window-width="1920"
      inkscape:window-height="974"
      inkscape:window-x="-11"
