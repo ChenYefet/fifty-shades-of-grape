@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg59135"
+   sodipodi:docname="chen_yefet_image_file.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs59139">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient115904">
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1;"
+         offset="0"
+         id="stop115900" />
+      <stop
+         style="stop-color:#aa00ff;stop-opacity:1;"
+         offset="1"
+         id="stop115902" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient114442">
+      <stop
+         style="stop-color:#aa00ff;stop-opacity:1;"
+         offset="0"
+         id="stop114438" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1;"
+         offset="0.5"
+         id="stop114446" />
+      <stop
+         style="stop-color:#aa00ff;stop-opacity:1;"
+         offset="1"
+         id="stop114440" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient111526">
+      <stop
+         style="stop-color:#8b00d6;stop-opacity:0.3764706;"
+         offset="0"
+         id="stop111522" />
+      <stop
+         style="stop-color:#7d00bd;stop-opacity:0.39215687;"
+         offset="1"
+         id="stop111524" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient111526"
+       id="radialGradient111528"
+       cx="16"
+       cy="16"
+       fx="16"
+       fy="16"
+       r="14"
+       gradientTransform="matrix(1,0,0,0.72492857,0,4.4011429)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient114442"
+       id="linearGradient114444"
+       x1="4.579"
+       y1="18.1455"
+       x2="27.642"
+       y2="18.1455"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient115904"
+       id="linearGradient115906"
+       x1="21.577753"
+       y1="10.693594"
+       x2="25.977753"
+       y2="10.693594"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview59137"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="24.25"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg59135" />
+  <title
+     id="title59125">file_type_image</title>
+  <path
+     d="M30,5.851Q30,16,30,26.149H2Q2,16,2,5.851H30"
+     style="fill:url(#radialGradient111528);fill-opacity:1"
+     id="path59127" />
+  <path
+     d="M24.232,8.541a2.2,2.2,0,1,0,1.127.623,2.212,2.212,0,0,0-1.127-.623"
+     style="fill:url(#linearGradient115906);fill-opacity:1"
+     id="path59129" />
+  <g
+     id="g114436"
+     style="fill-opacity:1;fill:url(#linearGradient114444)">
+    <path
+       d="M18.111,20.1q-2.724-3.788-5.45-7.575Q8.619,18.147,4.579,23.766q5.449,0,10.9,0,1.316-1.832,2.634-3.663"
+       style="fill:url(#linearGradient114444);fill-opacity:1"
+       id="path59131" />
+    <path
+       d="M22.057,16q-2.793,3.882-5.584,7.765,5.584,0,11.169,0Q24.851,19.882,22.057,16Z"
+       style="fill:url(#linearGradient114444);fill-opacity:1"
+       id="path59133" />
+  </g>
+  <metadata
+     id="metadata119244">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>file_type_image</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
