@@ -73,7 +73,7 @@
         "tab.hoverForeground": "#AA00FF",
         "tab.hoverBorder": "#FF00DDD8",
         "editor.background": "#0c0020",
-        "editor.foreground": "#dbd4fa",
+        "editor.foreground": "#DABDFF96",
         "editorLineNumber.foreground": "#FF00DD3D",
         "editorLineNumber.activeForeground": "#FF00DD93",
         "editorCursor.background": "#241b2f",
